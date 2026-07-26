@@ -1,5 +1,5 @@
-#include "controls/control/pole_placement.hpp"
-#include "controls/core/analysis.hpp"
+#include "control/pole_placement.hpp"
+#include "core/analysis.hpp"
 #include <stdexcept>
 
 namespace controls {
