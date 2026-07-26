@@ -1,4 +1,4 @@
-#include "controls/control/lqg.hpp"
+#include "control/lqg.hpp"
 
 namespace controls {
 
