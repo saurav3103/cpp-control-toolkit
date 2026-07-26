@@ -1,4 +1,4 @@
-#include "controls/core/state_space.hpp"
+#include "core/state_space.hpp"
 #include <stdexcept>
 
 namespace controls {
