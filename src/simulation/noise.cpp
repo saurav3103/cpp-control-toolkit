@@ -1,4 +1,4 @@
-#include "controls/simulation/noise.hpp"
+#include "simulation/noise.hpp"
 
 namespace controls {
 
