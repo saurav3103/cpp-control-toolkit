@@ -1,5 +1,5 @@
-#include "controls/estimation/luenberger_observer.hpp"
-#include "controls/control/pole_placement.hpp"
+#include "estimation/luenberger_observer.hpp"
+#include "control/pole_placement.hpp"
 
 namespace controls {
 
