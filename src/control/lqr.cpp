@@ -1,4 +1,4 @@
-#include "controls/control/lqr.hpp"
+#include "control/lqr.hpp"
 #include <stdexcept>
 
 namespace controls {
