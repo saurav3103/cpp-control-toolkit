@@ -1,4 +1,4 @@
-#include "controls/core/discretization.hpp"
+#include "core/discretization.hpp"
 #include <unsupported/Eigen/MatrixFunctions>  // needed for .exp()
 
 namespace controls {
