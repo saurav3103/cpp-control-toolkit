@@ -1,4 +1,4 @@
-#include "controls/simulation/linear_simulator.hpp"
+#include "simulation/linear_simulator.hpp"
 
 namespace controls {
 
